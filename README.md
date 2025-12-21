@@ -109,3 +109,12 @@ Petal features are more informative than sepal features (from Iris analysis)
 Automated tools like Pandas Profiling speed up initial EDA
 
 EDA helps in better feature selection before modeling
+
+## 🙏 Acknowledgements
+
+I learned and practiced most of the EDA concepts in this repository by following
+YouTube tutorials from **CampusX**.
+
+- Channel: CampusX  
+
+This repository is created purely for **learning and practice purposes**.
