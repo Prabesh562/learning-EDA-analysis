@@ -3,11 +3,11 @@
 This repository documents my learning and practice journey in Exploratory Data Analysis (EDA) using Python.
 It focuses on understanding data through visualization, statistics, and structured analysis, building a strong foundation for Machine Learning.
 
-🚀 What I Practiced
+##🚀 What I Practiced
 
 In this repository, I practiced the following EDA concepts:
 
-🔹 Types of Analysis
+##🔹 Types of Analysis
 
 Univariate Analysis – understanding single variables
 
@@ -15,19 +15,19 @@ Bivariate Analysis – studying relationships between two variables
 
 Multivariate Analysis – analyzing interactions among multiple variables
 
-🔹 Data Handling
+##🔹 Data Handling
 
 Basic Data Cleaning (limited usage)
 
 Handling numerical and categorical features
 
-🔹 Visualization
+##🔹 Visualization
 
 Matplotlib
 
 Seaborn
 
-🔹 Statistical Insights
+##🔹 Statistical Insights
 
 Mean, median, mode
 
@@ -35,11 +35,11 @@ Correlation
 
 Distribution analysis
 
-🔹 Automated EDA
+##🔹 Automated EDA
 
 Pandas Profiling (ydata-profiling) for quick dataset summarization
 
-📂 Datasets Used
+##📂 Datasets Used
 
 Titanic Dataset (Kaggle)
 
@@ -53,7 +53,7 @@ flights
 
 Used mainly for visualization and relationship analysis
 
-📁 Repository Structure
+##📁 Repository Structure
 learn-eda-analysis/
 │
 ├── Asking_Basic_questions.ipynb
@@ -64,7 +64,7 @@ learn-eda-analysis/
 ├── Titanic-Dataset.csv
 ├── eda_report_of_Titanic_dataset_using_Pandas_Profiling.html
 
-Notebook Overview:
+##Notebook Overview:
 
 Asking_Basic_questions.ipynb
 Understanding the dataset before analysis
@@ -78,7 +78,7 @@ Relationships between pairs of variables
 Pandas_Profiling.ipynb
 Automated EDA report generation
 
-🎯 Purpose of This Repository
+##🎯 Purpose of This Repository
 
 📘 Learning & practice of EDA concepts
 
@@ -86,7 +86,7 @@ Automated EDA report generation
 
 🏗️ Building a strong foundation for Machine Learning projects
 
-🧩 Learning Level
+##🧩 Learning Level
 
 Intermediate
 
@@ -98,7 +98,7 @@ Matplotlib & Seaborn
 
 Jupyter Notebooks
 
-🧠 Key Takeaways
+##🧠 Key Takeaways
 
 Visualization is essential to understand data behavior
 
