@@ -54,6 +54,7 @@ flights
 Used mainly for visualization and relationship analysis
 
 ## 📁 Repository Structure
+```
 learn-eda-analysis/
 │
 ├── Asking_Basic_questions.ipynb
@@ -63,6 +64,7 @@ learn-eda-analysis/
 │
 ├── Titanic-Dataset.csv
 ├── eda_report_of_Titanic_dataset_using_Pandas_Profiling.html
+```
 
 ## Notebook Overview:
 
